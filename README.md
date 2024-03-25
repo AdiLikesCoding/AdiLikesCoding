@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hey, I'm Addai 👋
 
+### About Me 
+
+<p>Hey, my name is Addai and i'm an up and coming coder!</p>
 <!--
 **AdiLikesCoding/AdiLikesCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
